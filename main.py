@@ -12,9 +12,12 @@ for i in range(len(a)):
 
 print(sum)
 
+
 # y=np.arange(0,50,0.1)
 
 axes.quiver(0,0,0,a[0],a[1],a[2],color='orange',arrow_length_ratio=0.1)
+axes.quiver(0,0,0,z[0],z[1],z[2],color='red',arrow_length_ratio=0.1)
+axes.quiver(0,0,0,sum[0],sum[1],sum[2],color='green',arrow_length_ratio=0.1)
 
 axes.set_xlim([-7,7]) 
 axes.set_ylim([-7,7])
