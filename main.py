@@ -21,9 +21,7 @@ sum=list()
 for i in range(len(a)):
     sum+=[a[i]+b[i]]
     largest=max(sum)
-# draw_3d(a,b,sum,largest)
-print(sum,a,b)
-print(largest)
+
 
 axes=plt.axes(projection='3d')
 axes.quiver(0,0,0,a[0],a[1],a[2],color='orange',arrow_length_ratio=0.1,label='a')
