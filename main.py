@@ -19,6 +19,7 @@ def v_sum(a,b):
 print('3d vector addition')
 print('values of a ')
 a=[int(input(f'enter the {chr(120+i)} coordinate of a :'))for i in range(3)]
+print('values of b ')
 b=[int(input(f'enter the {chr(120+i)} coordinate of b :'))for i in range(3)]
 
 # if len(a) or len(z)!=3:
