@@ -20,6 +20,6 @@ How to use :
 
 ![image_2](img/Screenshot%202025-08-06%20225940.png)
 
-3.Thats it ! Now you can see your sum of the 2 vectors in 3d .
+3. Thats it ! Now you can see your sum of the 2 vectors in 3d .
 
 ![image_3](img/Screenshot%202025-08-06%20230031.png)
