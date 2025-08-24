@@ -27,5 +27,6 @@ How to use :
 
 Tips:
 
-->You can also rotate the 3d space by holding your left mouse click and moving 
-->You can span in and out using right click in your mouse and moving
+->You can also rotate the 3d space by  left clicking your mouse and moving 
+
+->You can span in and out using right clicking your mouse and moving
