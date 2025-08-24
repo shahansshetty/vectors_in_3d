@@ -1,6 +1,6 @@
 This simple python program helps you to visualize vectors addition in 3d:
 
-![image_0](img/ss_0.png)
+![image_0](img/image.png)
 
 requirments: 
 
@@ -22,4 +22,10 @@ How to use :
 
 3. Thats it ! Now you can see your sum of the 2 vectors in 3d .
 
-![image_3](img/Screenshot%202025-08-06%20230031.png)
+![image_3](img/vec_sum.png)
+
+
+Tips:
+
+->You can also rotate the 3d space by holding your left mouse click and moving 
+->You can span in and out using right click in your mouse and moving
